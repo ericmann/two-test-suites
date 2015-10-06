@@ -2,8 +2,7 @@
   "generator-reveal": {
     "presentationTitle": "A Tale of Two Test Suites",
     "packageVersion": "1.0.0",
-    "revealTheme": "black",
-    "useSass": false,
+    "useSass": true,
     "deployToGithubPages": true,
     "githubUsername": "ericmann",
     "githubRepository": "two-test-suites"
