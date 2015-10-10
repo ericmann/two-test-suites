@@ -1,7 +1,8 @@
 ##  Closing
 
-This is a new Markdown slide
+- Eric Mann - Lead Web Engineer at [10up](http://10up.com)
+- [@ericmann](https://twitter.com/ericmann)
+- [https://eamann.com](https://eamann.com)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    If this is the kind of thing that interests you, we're hiring ...
