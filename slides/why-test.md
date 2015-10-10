@@ -1,7 +1,6 @@
-##  Why Test
-
-This is a new Markdown slide
+## It was the best of code,
+## It was the worst of code
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    No code is ever written, shipped, or executed entirely bug-free.
+    It can be the best code on the planet, but given time, will be proven to suck.
