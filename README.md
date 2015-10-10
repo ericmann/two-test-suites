@@ -16,4 +16,4 @@ This presentation walks viewers through both test frameworks, covering the pros/
 Changelog
 ---------
 
-10-10-2015  First Reveal.js build
+10-10-2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First Reveal.js build
