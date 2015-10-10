@@ -1,7 +1,6 @@
 ##  Integration vs Unit Testing
 
-This is a new Markdown slide
+_Two sides of the same coin ..._
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Integration testing and unit testing are different, but share many of the same goals: preventing regressions, ensuring proper behavior, and documenting potential side-effects.
