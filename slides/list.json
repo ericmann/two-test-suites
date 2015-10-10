@@ -1,1 +1,32 @@
-["index.md"]
+[
+    "index.md",
+    [
+        "why-test.md",
+        "technical-debt.md",
+        "integration-testing.md",
+        "regression-testing.md",
+        "guilt.md"
+    ],
+    [
+        "wordpress-testing.md",
+        "two-ways-to-test.md"
+    ],
+	[
+		"core-test-framework.md",
+		"core-history.md",
+		"core-coverage.md",
+		"core-goals.md",
+		"core-example.md"
+	],
+	"integration-vs-unit-testing.md",
+	[
+		"wp-mock.md",
+		"wp-mock-history.md",
+		"wp-mock-coverage.md",
+		"wp-mock-goals.md",
+		"wp-mock-example.md"
+	],
+    "implementation.md",
+    "questions.md",
+    "closing.md"
+]
