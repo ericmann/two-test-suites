@@ -1,4 +1,4 @@
-##  Core: Example
+##  Core Framework: Example
 
 This is a new Markdown slide
 
