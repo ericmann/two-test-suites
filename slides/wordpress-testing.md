@@ -1,7 +1,9 @@
 ##  WordPress + Testing = ?
 
-This is a new Markdown slide
+<ul>
+    <li class="fragment">Not many people test their WordPress code</li>
+    <li class="fragment">Core, however, <i>requires</i> testing</li>
+</ul>
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    I'll be the first to admit it: Not many people really test their WordPress code ...
