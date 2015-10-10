@@ -1,7 +1,4 @@
 ##  Core Test Framework
 
-This is a new Markdown slide
-
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    The core testing framework is, obviously, part of WordPress core.

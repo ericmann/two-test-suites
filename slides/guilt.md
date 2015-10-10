@@ -1,7 +1,6 @@
 ##  Guilt
 
-This is a new Markdown slide
+_I once worked with a developer who ..._
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    No one wants to be _that guy_ at the conference admitting they've not yet built out a test suite.

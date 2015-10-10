@@ -1,7 +1,4 @@
 ##  WP_Mock
 
-This is a new Markdown slide
-
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    WP Mock isn't part of core. As the name implies, it allows you to _mock_ WordPress in your tests.

@@ -1,7 +1,6 @@
 ##  WP_Mock: Goals
 
-This is a new Markdown slide
+_WP_Mock tests only your code, not its environment_
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    WP_Mock isn't an integration testing suite, its goal is to separate your code into the smallest _units_ possible and test them individually.
