@@ -1,4 +1,4 @@
-##  Core Framework: Example
+##  WP_Mock: Example
 
 <pre><code lang="php">class Importer {
   /**
