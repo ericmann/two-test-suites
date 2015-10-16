@@ -16,6 +16,7 @@
 		"core-history.md",
 		"core-coverage.md",
 		"core-goals.md",
+		"core-test_code.md",
 		"core-example.md"
 	],
 	"integration-vs-unit-testing.md",
@@ -24,6 +25,7 @@
 		"wp-mock-history.md",
 		"wp-mock-coverage.md",
 		"wp-mock-goals.md",
+		"wp-mock-test_code.md",
 		"wp-mock-example.md"
 	],
     "implementation.md",
